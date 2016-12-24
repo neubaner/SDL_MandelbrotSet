@@ -1,4 +1,4 @@
 # SDL_MandelbrotSet
 
 ## Usage:
-'main [:number of iterations]'
+<main [:number of iterations]>
